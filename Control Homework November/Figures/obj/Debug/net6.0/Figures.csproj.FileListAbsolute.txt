@@ -1,0 +1,12 @@
+/Users/kleshny/Projects/Control Homework November/Figures/bin/Debug/net6.0/Figures.deps.json
+/Users/kleshny/Projects/Control Homework November/Figures/bin/Debug/net6.0/Figures.dll
+/Users/kleshny/Projects/Control Homework November/Figures/bin/Debug/net6.0/Figures.pdb
+/Users/kleshny/Projects/Control Homework November/Figures/obj/Debug/net6.0/Figures.csproj.AssemblyReference.cache
+/Users/kleshny/Projects/Control Homework November/Figures/obj/Debug/net6.0/Figures.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kleshny/Projects/Control Homework November/Figures/obj/Debug/net6.0/Figures.AssemblyInfoInputs.cache
+/Users/kleshny/Projects/Control Homework November/Figures/obj/Debug/net6.0/Figures.AssemblyInfo.cs
+/Users/kleshny/Projects/Control Homework November/Figures/obj/Debug/net6.0/Figures.csproj.CoreCompileInputs.cache
+/Users/kleshny/Projects/Control Homework November/Figures/obj/Debug/net6.0/Figures.dll
+/Users/kleshny/Projects/Control Homework November/Figures/obj/Debug/net6.0/refint/Figures.dll
+/Users/kleshny/Projects/Control Homework November/Figures/obj/Debug/net6.0/Figures.pdb
+/Users/kleshny/Projects/Control Homework November/Figures/obj/Debug/net6.0/ref/Figures.dll
